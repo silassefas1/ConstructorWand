@@ -1,0 +1,19 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "constructor:wand",
+      "category": "Tools"
+    },
+    "components": {
+      "minecraft:icon": "constructor_wand",
+      "minecraft:display_name": {
+        "value": "§bConstructor Wand"
+      },
+      "minecraft:creative_category": {
+        "category": "Equipment"
+      },
+      "minecraft:use_duration": 1
+    }
+  }
+}
