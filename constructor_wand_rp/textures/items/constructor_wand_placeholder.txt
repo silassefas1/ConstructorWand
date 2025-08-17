@@ -1,0 +1,2 @@
+// Arquivo placeholder para textura
+// No Minecraft real, este seria um arquivo PNG de 16x16 pixels
