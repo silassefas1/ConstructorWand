@@ -1,33 +1,23 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Constructor Wand BP",
-    "description": "Varinha de construção inteligente",
+    "name": "Constructor Wand BP Simple",
+    "description": "Varinha de construção básica",
     "uuid": "a1b2c3d4-e5f6-7890-abcd-1234567890ab",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 21, 0]
+    "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {
       "type": "data",
       "uuid": "b2c3d4e5-f678-9012-abcd-2345678901bc",
       "version": [1, 0, 0]
-    },
-    {
-      "type": "script",
-      "uuid": "c3d4e5f6-7890-abcd-1234-567890abcdef",
-      "version": [1, 0, 0],
-      "entry": "scripts/main.js"
     }
   ],
   "dependencies": [
     {
       "uuid": "e1a1b2c3-d4e5-6789-aaaa-bbbbbbbbbbbb",
       "version": [1, 0, 0]
-    },
-    {
-      "module_name": "@minecraft/server",
-      "version": "1.14.0"
     }
   ]
 }
