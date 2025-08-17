@@ -5,7 +5,7 @@
     "description": "Varinha de construção inteligente",
     "uuid": "a1b2c3d4-e5f6-7890-abcd-1234567890ab",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 19, 50]
+    "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
@@ -17,7 +17,7 @@
       "type": "script",
       "uuid": "c3d4e5f6-7890-abcd-1234-567890abcdef",
       "version": [1, 0, 0],
-      "entry": "scripts/main_simple.js"
+      "entry": "scripts/main.js"
     }
   ],
   "dependencies": [
@@ -27,7 +27,7 @@
     },
     {
       "module_name": "@minecraft/server",
-      "version": "1.5.0"
+      "version": "1.14.0"
     }
   ]
 }

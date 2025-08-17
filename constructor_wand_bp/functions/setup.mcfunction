@@ -1,1 +1,0 @@
-give @p constructor:wand

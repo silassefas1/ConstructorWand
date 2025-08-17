@@ -5,7 +5,7 @@
     "description": "Textura da varinha mágica",
     "uuid": "e1a1b2c3-d4e5-6789-aaaa-bbbbbbbbbbbb",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 19, 50]
+    "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
